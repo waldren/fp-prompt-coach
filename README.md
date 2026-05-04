@@ -1,4 +1,6 @@
 # FM Prompt Coach
+** This is an experimental skill and should be used with caution **
+** No Warranties Given **
 
 A Claude skill for Family Medicine residency faculty and medical school FM departments. Builds high-quality, safe, evidence-grounded AI prompts for clinical teaching, clinical decision support, board prep, patient education, resident assessment, EBM, QI, procedural training, and program administration.
 
